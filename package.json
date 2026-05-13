@@ -15,7 +15,7 @@
     "ejs": "^2.6.2",
     "express": "^4.17.3",
     "firebase": "^12.13.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
